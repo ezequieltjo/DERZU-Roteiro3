@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1539811677 source:c:\users\aluno.ci-hp\desktop\questao 3\main.cpp
+	<iostream>
+	"ContaEspecial.h"
+
+1539810657 c:\users\aluno.ci-hp\desktop\questao 3\include\iconta.h
+
+1539807208 source:c:\users\aluno.ci-hp\desktop\questao 3\src\iconta.cpp
+	"IConta.h"
+
+1539812761 source:c:\users\aluno.ci-hp\desktop\questao 3\src\conta.cpp
+	"Conta.h"
+
+1539812707 c:\users\aluno.ci-hp\desktop\questao 3\include\conta.h
+	"IConta.h"
+	<string>
+
+1539812825 source:c:\users\aluno.ci-hp\desktop\questao 3\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1539812832 c:\users\aluno.ci-hp\desktop\questao 3\include\contaespecial.h
+	"Conta.h"
+
