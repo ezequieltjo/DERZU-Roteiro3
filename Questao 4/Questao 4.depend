@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\ezequ\desktop\derzu-r3\questao 4\main.cpp
+	<iostream>
+
+1539826602 source:c:\users\ezequ\desktop\derzu-r3\questao 4\src\conta.cpp
+	"Conta.h"
+
+1539826010 c:\users\ezequ\desktop\derzu-r3\questao 4\include\conta.h
+	<string>
+	<iostream>
+
+1539827097 source:c:\users\ezequ\desktop\derzu-r3\questao 4\src\contacorrente.cpp
+	"ContaCorrente.h"
+
+1539827274 c:\users\ezequ\desktop\derzu-r3\questao 4\include\contacorrente.h
+	"Conta.h"
+
+1539827755 source:c:\users\ezequ\desktop\derzu-r3\questao 4\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1539827797 c:\users\ezequ\desktop\derzu-r3\questao 4\include\contaespecial.h
+	"ContaCorrente.h"
+
+1539828041 source:c:\users\ezequ\desktop\derzu-r3\questao 4\src\poupanca.cpp
+	"Poupanca.h"
+
+1539828058 c:\users\ezequ\desktop\derzu-r3\questao 4\include\poupanca.h
+	"Conta.h"
+
