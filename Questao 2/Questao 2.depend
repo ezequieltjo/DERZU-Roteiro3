@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\ezequ\desktop\derzu-roteiro3\questao 2\main.cpp
+	<iostream>
+
+1539818905 source:c:\users\ezequ\desktop\derzu-roteiro3\questao 2\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1539821364 c:\users\ezequ\desktop\derzu-roteiro3\questao 2\include\figurageometrica.h
+	<string>
+
+1539821371 source:c:\users\ezequ\desktop\derzu-roteiro3\questao 2\src\triangulo.cpp
+	"Triangulo.h"
+
+1539821364 c:\users\ezequ\desktop\derzu-roteiro3\questao 2\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1539821429 source:c:\users\ezequ\desktop\derzu-roteiro3\questao 2\src\retangulo.cpp
+	"Retangulo.h"
+
+1539821422 c:\users\ezequ\desktop\derzu-roteiro3\questao 2\include\retangulo.h
+	"FiguraGeometrica.h"
+
+1539821410 source:c:\users\ezequ\desktop\derzu-roteiro3\questao 2\src\circulo.cpp
+	"Circulo.h"
+
+1539821402 c:\users\ezequ\desktop\derzu-roteiro3\questao 2\include\circulo.h
+	"FiguraGeometrica.h"
+
