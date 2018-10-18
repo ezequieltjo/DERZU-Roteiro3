@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\ezequ\desktop\derzu-roteiro3\questao 5\main.cpp
+	<iostream>
+
+1539830009 source:c:\users\ezequ\desktop\derzu-roteiro3\questao 5\src\funcionario.cpp
+	"Funcionario.h"
+
+1539829000 c:\users\ezequ\desktop\derzu-roteiro3\questao 5\include\funcionario.h
+	<string>
+
+1539830024 source:c:\users\ezequ\desktop\derzu-roteiro3\questao 5\src\assalariado.cpp
+	"Assalariado.h"
+
+1539829148 c:\users\ezequ\desktop\derzu-roteiro3\questao 5\include\assalariado.h
+	"Funcionario.h"
+
+1539829954 source:c:\users\ezequ\desktop\derzu-roteiro3\questao 5\src\comissionado.cpp
+	"Comissionado.h"
+
+1539829747 c:\users\ezequ\desktop\derzu-roteiro3\questao 5\include\comissionado.h
+	"Funcionario.h"
+
+1539830047 source:c:\users\ezequ\desktop\derzu-roteiro3\questao 5\src\horista.cpp
+	"Horista.h"
+
+1539829361 c:\users\ezequ\desktop\derzu-roteiro3\questao 5\include\horista.h
+	"Funcionario.h"
+
+1539831393 source:c:\users\ezequ\desktop\derzu-roteiro3\questao 5\src\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+
+1539830943 c:\users\ezequ\desktop\derzu-roteiro3\questao 5\include\sistemagerenciafolha.h
+	<iostream>
+	<string>
+	"Funcionario.h"
+	"Assalariado.h"
+	"Horista.h"
+	"Comissionado.h"
+
